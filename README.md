@@ -11,7 +11,7 @@ preProcessing.py : set of functions to read and use Address-Event Representation
 
 spikingNN.py : the neural network architecture that is passed to SpiNNaker
 
-NNcontroller.py : to do training and evaluation of NN model
+NNcontroller.py : to run the simulation (training and evaluation of NN model)
 
 
 Requirements:
